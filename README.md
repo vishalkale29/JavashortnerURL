@@ -1,2 +1,0 @@
-# JavashortnerURL
-create javashortnerURL
